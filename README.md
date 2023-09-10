@@ -5,7 +5,8 @@
 
 - 👨‍💻 I’m currently working on **Java,C,sql**
 
-- 🌱 I’m currently learning **Web Development,Machine Learning, Cloud computing**
+- 🌱 I’m currently learning **Web Development,Machine Learning,
+  Cloud computing**
 
 - 📫 How to reach me **palakbarapatre02@gmail.com**
 
